@@ -38,7 +38,7 @@ Este projeto foi estruturado para demonstrar os pilares da Programação Orienta
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/jumarques03/Mini_CRM.git](https://github.com/jumarques03/Mini_CRM.git)
+    git clone https://github.com/jumarques03/Mini_CRM.git
     ```
 2.  Navegue até a pasta do projeto:
     ```bash
