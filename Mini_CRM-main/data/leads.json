@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Júlia Marques",
+    "company": "FIAP",
+    "email": "abc@gmail.com",
+    "stage": "Negociando",
+    "created": "2025-10-20"
+  },
+  {
+    "name": "Guilherme",
+    "company": "IBM",
+    "email": "gui@gmail.com",
+    "stage": "Em contato",
+    "created": "2025-10-20"
+  },
+  {
+    "name": "Luiza",
+    "company": "FIAP",
+    "email": "def@gmail.com",
+    "stage": "Novo",
+    "created": "2025-10-20"
+  },
+  {
+    "name": "Augusto",
+    "company": "Google",
+    "email": "augusto@gmail.com",
+    "stage": "Em contato",
+    "created": "2025-11-03"
+  },
+  {
+    "name": "Sérgio",
+    "company": "Google",
+    "email": "sergio@gmail.com",
+    "stage": "Perdido",
+    "created": "2025-11-03"
+  }
+]
